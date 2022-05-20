@@ -1,4 +1,4 @@
-package br.com.buritiscript.springbootdocker;
+package com.buritiscript.springbootdocker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

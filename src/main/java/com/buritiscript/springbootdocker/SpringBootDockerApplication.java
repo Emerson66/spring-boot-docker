@@ -1,4 +1,4 @@
-package br.com.buritiscript.springbootdocker;
+package com.buritiscript.springbootdocker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
