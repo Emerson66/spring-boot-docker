@@ -41,3 +41,12 @@ sudo docker run hello-world
 ``` sh
 sudo apt install openjdk-17-jdk-headles
 ```
+## Start
+
+```sh
+./mvnw package && java -jar target/spring-boot-docker-0.1.0.jar
+```
+```sh
+docker build -t emersonrc/spring-boot-docker .
+docker run -p 8080:8080 emersonrc/spring-boot-docker
+```
